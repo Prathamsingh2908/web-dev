@@ -1,0 +1,7 @@
+body{
+  background-color: orange;
+}@media screen{
+  body{
+    background-color: blue;
+  }
+}
