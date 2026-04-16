@@ -1,12 +1,9 @@
-import Header from "./components/Header";
-import WelcomeMessage from "./components/WelcomeMessage";
-
+import Counter from "./components/Counter";
 const App = () => {
   return (
     <div>
-      <WelcomeMessage />
+      <Counter />
     </div>
   );
 };
-
 export default App;
